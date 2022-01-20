@@ -10,7 +10,7 @@
 
 | 주제     |         sangyun5108         |         	KWY0218         |
 | :------- | :-------------------------: | :---------------------: | 
-| stack | [🔗](./stack/crazy-oung) | [🔗](./stack/daepan) | 
-| queue | [🔗](./queue/crazy-oung) | [🔗](./queue/daepan) | 
+| stack | [🔗](./stack/sangyun5108) | [🔗](./stack/KWY0218) | 
+| queue | [🔗](./queue/sangyun5108) | [🔗](./queue/KWY0218) | 
 
 
