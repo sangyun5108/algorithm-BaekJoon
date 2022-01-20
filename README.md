@@ -2,9 +2,10 @@
 
 > Since 2022.01.20
 
-## 📘 BaekJoon Algorithm
+## 📘 BaekJoon Algorithm (with Python)
 
 - https://www.acmicpc.net/
+
 
 ## 💡 스터디 기록
 
