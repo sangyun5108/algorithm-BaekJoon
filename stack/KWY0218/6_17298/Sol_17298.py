@@ -5,7 +5,7 @@ sequenceList = list(map(int,sys.stdin.readline().rstrip().split()))
 answer = []
 tempList = []
 
-index = len(sequenceList) -1
+index = N-1
 while index>-1:
     if not tempList:
         answer.append(-1)
@@ -19,6 +19,6 @@ while index>-1:
         else:
             tempList.pop()
             
-for i in range(len(answer)-1,-1,-1):
+for i in range(N-1,-1,-1):
     print(answer[i],end=" ")
 print()
