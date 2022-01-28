@@ -55,3 +55,4 @@ for i in range(n): # n 번 반복
     else: # 숫자가 0이 아닌 경우
         heapq.heappush(numbers,num) # numbers에 heappush를 사용해서 heap에 원소추가
 ```
+# 속도 : 216ms
