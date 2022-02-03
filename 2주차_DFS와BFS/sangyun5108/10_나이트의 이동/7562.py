@@ -8,7 +8,7 @@ test_case = int(input())
 answer = []
 
 dx = [1,1,2,2,-1,-1,-2,-2]
-dy = [2,-2,1,-1,2,-1,1,-1]
+dy = [2,-2,1,-1,2,-2,1,-1]
 
 def bfs():
     while queue:
