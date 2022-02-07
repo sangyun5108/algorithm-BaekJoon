@@ -20,5 +20,5 @@ while stack:
         stack.extend(S[index])
         visited[index-1] = True
         count += 1
-        
+
 print(count) if count != -1 else print(0)
