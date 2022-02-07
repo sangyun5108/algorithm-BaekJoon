@@ -19,5 +19,6 @@
 | queue(1주차) | ✅ | ✅ |
 | priority queue(2주차) |❌ |❌ |
 | DFS, BFS(2) | ❌ | ❌ |
+| DynamicProgramming | ❌  | ❌  |
 
 
